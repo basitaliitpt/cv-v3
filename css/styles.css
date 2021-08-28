@@ -130,6 +130,12 @@ position: absolute;
       font-size: 0.5rem;
 
     }
+    hr{
+      border-style:  dotted none none none;
+      width: 100px;
+      border-top-width: 7px;
+      border-color: grey;
+    }
 @media print {
   h1{
     color:green;
